@@ -7,7 +7,7 @@ These experiments were designed and run by Guy Grinfeld, David Lagnado, Tobias G
 ## Contents
 
 **data/**
-This directory contains csv. file with raw data for the first experiment and SPSS Data files ?.sav for second and third experiments.
+This directory contains csv. file with raw data for the first experiment and SPSS Data files (.sav) for second and third experiments.
 
 **analysis/**
 This directory contains R analysis script for the first experiment and additional SPSS syntax files for second and third experiments.
